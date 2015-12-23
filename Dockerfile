@@ -4,4 +4,4 @@ RUN pwd
 RUN whoami
 RUN ls -al
 RUN cat /proc/mounts
-##RUN whereis bash
+#RUN whereis bash
