@@ -1,2 +1,2 @@
 # apache-test
-Testing Readme.md
+Testing Readme.md only
