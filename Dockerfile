@@ -1,6 +1,6 @@
 FROM php:5-apache
-ARG test
-RUN echo $test
+#ARG test
+#RUN echo $test
 #RUN df -kH
 RUN pwd
 #RUN whoami
