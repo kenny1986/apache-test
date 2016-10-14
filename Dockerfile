@@ -1,4 +1,4 @@
-FROM php:5-apache
+FROM kennylim/test-dockerhub-autobuild:latest
 #ARG test
 #RUN echo $test
 RUN df -kH
